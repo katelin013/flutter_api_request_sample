@@ -14,7 +14,7 @@ Step 2: 專案裡新增
 Step 3: 用 Postman 等工具將 Response 貼上
 ![image](https://github.com/katelin013/flutter_api_request_sample/blob/master/3.png)
 
-Step 4: 就會產生出相對應的檔案
+Step 4: 就會產生出相對應的檔案  
 ![image](https://github.com/katelin013/flutter_api_request_sample/blob/master/4.png)
 
 Step 5: 使用
